@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently consulting on everything .NET at [VideoLAN](https://www.videolan.org) and more generally, OSS .NET devtools.
-  - [LibVLCSharp](https://github.com/videolan/libvlcsharp) and [LibVLC for NuGet](https://github.com/mfkl/libvlc-nuget) (780K+ downloads).
+  - [LibVLCSharp](https://github.com/videolan/libvlcsharp) (800K+ downloads).
+    - [LibVLC for NuGet](https://github.com/mfkl/libvlc-nuget).
+    - [LibVLCSharp samples](https://github.com/mfkl/libvlcsharp-samples).
   - [VLC for Unity](https://github.com/videolan/vlc-unity)
 - 🌱 I’m currently writing a [book](https://www.libvlcsharpthebook.com/preview) and occasionally [blog posts](https://mfkl.github.io).
 - :earth_africa: Growing the [LibVLC community](https://discord.gg/3h3K3JF) on Discord (600+ members with 10+ different tech stacks).	
