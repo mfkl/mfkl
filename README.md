@@ -5,7 +5,7 @@
     - [LibVLC for NuGet](https://github.com/mfkl/libvlc-nuget).
     - [LibVLCSharp samples](https://github.com/mfkl/libvlcsharp-samples).
   - [VLC for Unity](https://github.com/videolan/vlc-unity)
-- 🌱 I’m currently writing a [book](https://www.libvlcsharpthebook.com/preview) and occasionally [blog posts](https://mfkl.github.io).
+- 🌱 I’ve self-published [a book on LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts) and occasionally write [blog posts](https://mfkl.github.io).
 - :earth_africa: Growing the [LibVLC community](https://discord.gg/3h3K3JF) on Discord (700+ members with 10+ different tech stacks).	
 - 📫 How to reach me: [Twitter](https://twitter.com/martz2804) or [LinkedIn](https://www.linkedin.com/in/martin-finkel-a9368571)
 
