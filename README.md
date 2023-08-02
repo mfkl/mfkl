@@ -9,4 +9,4 @@
 - :earth_africa: Growing the [LibVLC community](https://discord.gg/3h3K3JF) on Discord (1000+ members with 10+ different tech stacks).	
 - 📫 How to reach me: [Twitter](https://twitter.com/martz2804) or [LinkedIn](https://www.linkedin.com/in/martin-finkel-a9368571)
 
-### You can sponsor my work through [GitHub sponsors](https://github.com/sponsors/mfkl) or by [purchasing a LibVLCSharp Commercial License](https://videolabs.io/solutions/libvlcsharp).
+### You can sponsor my work through [GitHub sponsors](https://github.com/sponsors/mfkl) or by [purchasing a LibVLCSharp Commercial License](https://videolabs.io/products/libvlcsharp).
